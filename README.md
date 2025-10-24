@@ -1,0 +1,10 @@
+
+        print("glFTPD UserStat Reset v1.0")
+        print("Options:")
+        print("  -r {path}    Use Alternate Config file.")
+        print("  -e           Reset on Monday versus Sunday.")
+        print("  -d           Reset Today's Stats Only.")
+        print("  -w           Reset Week Stats Only.")
+        print("  -m           Reset Month Stats Only.")
+        print("  -a           Reset Alltime Stats Only.")
+        print("  -h/?         This Help Screen")
